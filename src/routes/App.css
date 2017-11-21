@@ -1,0 +1,97 @@
+.table {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table_row {
+  padding: 5px 20px 5px 0;
+}
+
+.client_name {
+  width: 300px;
+}
+
+.client_phone {
+  width: 120px;
+}
+
+.client_email {
+  width: 90px;
+}
+
+.client_dateOfBirth {
+  width: 60px;
+}
+
+.client_adrress {
+  width: 105px;
+}
+
+.options {
+  margin-top: 50px;
+  width: 100%;
+}
+
+.options-title {
+  text-align: center;
+  font-size: 34px;
+}
+
+.options-pagination {
+  display: flex;
+  align-items: center;
+}
+
+.options-pagination_button {
+  margin-left: 50px;
+  border-radius: 0.4rem;
+  font-size: 1.6rem;
+  outline: none;
+  padding: 0 2.3rem;
+  transition: 0.2s;
+  cursor: pointer;
+  border: none;
+  user-select: none;
+  background: #4193ff;
+  color: #ffffff;
+}
+
+.options-filter {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.options-filter_input {
+  margin-left: 50px;
+}
+
+.options-filter_label {
+  margin-left: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form input {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.form button {
+  width: 300px;
+  margin-top: 10px;
+}
+
+.get-user_button {
+  margin-left: 20px;
+}
+
+.unique-user {
+  display: flex;
+}
+
+.unique-user_value {
+  margin-left: 20px;
+}
