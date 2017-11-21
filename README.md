@@ -16,7 +16,7 @@ Questions and answers:
   3) Where is validation for forms:
   There is no technical task about validation and no time for it.
   
-  4) Where is redux for forms:
+  4) Where is redux:
   This app is to simple and doesnt require redux.
   
   5) Why filter on gender doesnt work:
